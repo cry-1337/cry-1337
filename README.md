@@ -1,7 +1,7 @@
 ### Hello, people👋
 
 ### 🔭 I’m currently working on:
-- [Wonk Project]([https://discord.gg/35fz3xxjeC])
+- Nothing, i'm free now
 ### 🌱 I’m currently learning:
 - [C++]([https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170])
 
