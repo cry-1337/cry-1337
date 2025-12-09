@@ -5,9 +5,9 @@ C# Developer
 --------------
 
 ```c#
-namespace vo1ce337.About;
+namespace cry1337.About;
 
-public class vo1ce337
+public class cry1337
 {
     public string[] Core => ["C#", "Lua", "Git"];
     
