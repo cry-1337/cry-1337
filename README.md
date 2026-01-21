@@ -11,7 +11,7 @@ namespace cry1337.About;
 
 public class cry1337
 {
-    public string[] Core => ["C#", "ASP.Net", "Lua", "Docker", "Git"];
+    public string[] Core => ["C#", "ASP.Net Core", "Lua", "Docker", "Git"];
     
     public string[] Database => ["MySQL", "MongoDB", "SQLite", "PostgreSQL"];
     
