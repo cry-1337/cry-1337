@@ -39,6 +39,60 @@ public class cry1337
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">prod-26-individual</h3>
+      <div align="center">
+        <a href="https://github.com/cry-1337/prod-26-individual" target="_blank">
+          <img src="https://img.shields.io/badge/PROD_2026-Finalist-00ff9c?style=for-the-badge&logo=trophy&logoColor=black" />
+        </a>
+        <br/><br/>
+        <p>PROD 2026 contest task. Made it to the finals</p>
+        <a href="https://prodcontest.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Contest_Page-0d1117?style=flat-square&logo=googlechrome&logoColor=00ff9c" />
+        </a>
+        <a href="https://github.com/cry-1337/prod-26-individual" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=00ff9c" />
+        </a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">cryme</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/status-WIP-yellow?style=for-the-badge" />
+        <br/><br/>
+        <p><em>because managing customers can make you want to cry</em></p>
+        <p>CRM system built from scratch</p>
+        <a href="https://github.com/cry-1337/cryme" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=00ff9c" />
+        </a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">cGUI</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/status-WIP-yellow?style=for-the-badge" />
+        <br/><br/>
+        <p>Engine-Agnostic GUI Library — separates GUI logic from the rendering backend. Use any renderer, keep the same UI code.</p>
+        <a href="https://github.com/cry-1337/cGUI" target="_blank">
+          <img src="https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=00ff9c" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -77,6 +131,14 @@ public class cry1337
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cry-1337&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff" />
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -103,7 +165,7 @@ public class cry1337
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=cry1337&color=00ff9c&style=flat-square&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=cry-1337&color=00ff9c&style=flat-square&label=profile+views)
 
 **`// thanks for stopping by`**
 
