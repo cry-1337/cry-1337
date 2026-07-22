@@ -61,26 +61,13 @@ public class cry1337
         </a>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">cryme</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/status-WIP-yellow?style=for-the-badge" />
-        <br/><br/>
-        <p><em>because managing customers can make you want to cry</em></p>
-        <p>CRM system built from scratch</p>
-        <a href="https://github.com/cry-1337/cryme" target="_blank">
-          <img src="https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=00ff9c" />
-        </a>
-      </div>
-    </td>
-  </tr>
   <tr>
     <td width="50%" colspan="2">
       <h3 align="center">cGUI</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/status-WIP-yellow?style=for-the-badge" />
         <br/><br/>
-        <p>Engine-Agnostic GUI Library — separates GUI logic from the rendering backend. Use any renderer, keep the same UI code.</p>
+        <p>Engine-Agnostic GUI Library - separates GUI logic from the rendering backend. Use any renderer, keep the same UI code.</p>
         <a href="https://github.com/cry-1337/cGUI" target="_blank">
           <img src="https://img.shields.io/badge/Source-0d1117?style=flat-square&logo=github&logoColor=00ff9c" />
         </a>
