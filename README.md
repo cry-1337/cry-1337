@@ -26,9 +26,9 @@ namespace cry1337.About;
 #pragma warning disable SMALL_STACK
 public class cry1337
 {
-    public string[] Core     => ["C#", "ASP.Net Core", "Lua", "Docker", "Git"];
+    public string[] Core     => ["C++", "C#", "ASP.Net Core", "Lua", "Docker", "Git"];
     public string[] Database => ["MySQL", "MongoDB", "SQLite", "PostgreSQL"];
-    public string[] Editors  => ["Visual Studio Code", "Visual Studio"];
+    public string[] Editors  => ["Visual Studio Code", "Visual Studio", "Vim", "CLion", "Rider"];
 
     public string   Status   => "Currently writing code that future me will question";
     public string   Focus    => "Clean architecture & performant APIs";
